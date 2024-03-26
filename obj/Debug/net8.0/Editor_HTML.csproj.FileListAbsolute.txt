@@ -1,0 +1,14 @@
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/bin/Debug/net8.0/Editor_HTML
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/bin/Debug/net8.0/Editor_HTML.deps.json
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/bin/Debug/net8.0/Editor_HTML.runtimeconfig.json
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/bin/Debug/net8.0/Editor_HTML.dll
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/bin/Debug/net8.0/Editor_HTML.pdb
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/Editor_HTML.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/Editor_HTML.AssemblyInfoInputs.cache
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/Editor_HTML.AssemblyInfo.cs
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/Editor_HTML.csproj.CoreCompileInputs.cache
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/Editor_HTML.dll
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/refint/Editor_HTML.dll
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/Editor_HTML.pdb
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/Editor_HTML.genruntimeconfig.cache
+/home/jamille/Área de Trabalho/Projetos/Editor_HTML/obj/Debug/net8.0/ref/Editor_HTML.dll
